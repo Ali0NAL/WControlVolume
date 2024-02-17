@@ -17,3 +17,4 @@ Elinizi web kamerasına gösterin.
 İşaret ve başparmak arasındaki mesafe değiştiğinde, ses seviyesi otomatik olarak ayarlanır.
 Ses seviyesini kontrol etmek için elinizi yukarı veya aşağı hareket ettirin.
 Programı kapatmak için klavyeden "q" tuşuna basın.
+![volume](https://github.com/Ali0NAL/WControlVolume/assets/101065402/a56959b2-1d04-4241-b0c6-3f8642150993)
